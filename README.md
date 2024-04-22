@@ -83,7 +83,7 @@ Semantic search enables users to find documents based on their meaning rather th
 ## References
 
 - [Scikit-learn Documentation](https://scikit-learn.org/)
-- [Latent Semantic Indexing](https://en.wikipedia.org/wiki/Latent_semantic_analysis)
+- [Kaggle Reference Code Link](https://www.kaggle.com/code/ajitrajput/semantic-search-engine-using-nlp)
 - [Natural Language Toolkit (nltk)](https://www.nltk.org/)
 
 ## Conclusion
